@@ -1,4 +1,5 @@
 .env
-switch/__pycache__
 db.sqlite3
-account/__pycache__
+*.pyc
+media
+*/migrations
