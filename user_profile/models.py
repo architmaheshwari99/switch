@@ -51,5 +51,3 @@ class ProfessionalExperience(models.Model):
 
     def __str__(self):
         return self.profile.user.email + " " + self.company_name
-
-
